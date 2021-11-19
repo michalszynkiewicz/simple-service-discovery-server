@@ -1,6 +1,6 @@
 # Simple Service Discovery server
 
-A "service discovery" server used in the [Quarkus Insights $70](https://www.youtube.com/watch?v=l3mLKU3wR2A).
+A "service discovery" server used in the [Quarkus Insights #70](https://www.youtube.com/watch?v=l3mLKU3wR2A).
 
 ## Running
 To start the service, build it and run the created jar:
